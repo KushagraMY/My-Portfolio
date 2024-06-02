@@ -36,6 +36,12 @@ const projectList = [
       "Built my online resume with HTML and CSS and posted on Github repository",
     url: "https://github.com/KushagraMY/resume.git",
   },
+  {
+    title: "My Online Portfolio",
+    description:
+      "Built my online portfolio with javascript, HTML, CSS and published on Github Pages",
+    url: "https://kushagramy.github.io/My-Portfolio/#portfolio",
+     },
    
   
 ];
