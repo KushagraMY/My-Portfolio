@@ -20,29 +20,9 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/socials/coding-image.jpg";
+import { projectList } from "./projectList";
 
-const imageAltText = "desktop with books and laptop";
-
-/**
- * Project list
- *
- * An array of objects that will be used to display for your project
- * links section. Below is a sample, update to reflect links you'd like to highlight.
- */
-const projectList = [
-  {
-    title: "My Resume Site",
-    description:
-      "Built my online resume with HTML and CSS and posted on Github repository",
-    url: "https://github.com/KushagraMY/resume.git",
-  },
-  {
-    title: "My Online Portfolio",
-    description:
-      "Built my online portfolio with javascript, HTML, CSS and published on Github Pages",
-    url: "https://kushagramy.github.io/My-Portfolio/#portfolio",
-  },
-];
+const imageAltText = "coding image";
 
 const Portfolio = () => {
   return (
