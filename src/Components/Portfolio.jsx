@@ -41,9 +41,7 @@ const projectList = [
     description:
       "Built my online portfolio with javascript, HTML, CSS and published on Github Pages",
     url: "https://kushagramy.github.io/My-Portfolio/#portfolio",
-     },
-   
-  
+  },
 ];
 
 const Portfolio = () => {
