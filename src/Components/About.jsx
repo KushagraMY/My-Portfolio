@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi, I'm Kushagra Mehrishiy, a passionate ECE student with a knack for programming, embedded systems, and IoT. I excel in creating innovative tech solutions, from air quality monitors to light intensity systems. As an event organizer, I've led successful sports tournaments and community events.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "C, Python, HTML, CSS",
+  "LTSpice, MATLAB Simulink",
+  "IOT (Internet of Things)",
+  "Event Management",
+  "Business Analytics",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Dedicated to social causes, I volunteer with NGOs to uplift underprivileged communities. Currently, I'm diving deep into Embedded Systems and IoT through an internship with Pantech.AI, honing my skills in PCB Design, Embedded C, and more. Let's innovate together!";
 
 const About = () => {
   return (
